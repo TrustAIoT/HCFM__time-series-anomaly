@@ -1,5 +1,5 @@
-[Paper](https://arxiv.org/abs/2610.25059)
-# HCFM Code Submission
+# HCFM: Helmholtz Component Flow Matching for Time Series Anomaly Detection
+[ICDE 2027 Paper](https://arxiv.org/abs/2610.25059)
 
 ## Setup
 
