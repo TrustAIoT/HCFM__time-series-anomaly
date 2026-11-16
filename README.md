@@ -1,3 +1,4 @@
+[Paper](https://arxiv.org/abs/2610.25059)
 # HCFM Code Submission
 
 ## Setup
